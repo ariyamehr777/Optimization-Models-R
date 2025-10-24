@@ -1,2 +1,2 @@
 # Optimization-Models-R
-A simple linear programming maximization example using R and lpSolve
+This repository demonstrates how to solve a simple linear programming maximization problem using the `lpSolve` package in R.
